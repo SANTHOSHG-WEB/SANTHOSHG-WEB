@@ -192,8 +192,8 @@ print(me.motto())
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
 |:---|:---|:---|:---|
-| B.E., Computer Science & Engineering | EASA College of Engineering & Technology, Coimbatore | Nov 2023 – Present | In Progress |
-| Higher Secondary Certificate (HSC) | GBHSS, Maradhahalli | Jun 2021 – Mar 2023 | 85% (State Board) |
+| B.E., Computer Science & Engineering | EASA College of Engineering & Technology, Coimbatore | Nov 2025 – Present | In Progress |
+| Higher Secondary Certificate (HSC) | GBHSS, Maradhahalli | Jun 2023 – Mar 2025 | 85% (State Board) |
 
 </div>
 
