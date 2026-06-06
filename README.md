@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=santhoshg22333&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views" />
   <a href="mailto:santhoshg22333@gmail.com"><img src="https://img.shields.io/badge/Email-santhoshg22333%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/santhoshg22333"><img src="https://img.shields.io/badge/LinkedIn-Santhosh%20G-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codewithg.vercel.app"><img src="https://img.shields.io/badge/Portfolio-codewithg.vercel.app-bf91f3?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-santhoshg.vercel.app/"><img src="https://img.shields.io/badge/https://portfolio-santhoshg.vercel.app/-bf91f3?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
